@@ -42,5 +42,5 @@ The web service displays a simple web page with the message: "Hello World! My na
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/terraform-aws-project.git
+   git clone https://github.com/Keionthebeat/terraform-aws-project
    cd terraform-aws-project
