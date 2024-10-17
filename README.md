@@ -1,4 +1,5 @@
 # Terraform AWS Project
+![Autoscalling Webservice](./Terraform%20Autoscaling%20webservice.png)
 
 ## Project Overview
 
